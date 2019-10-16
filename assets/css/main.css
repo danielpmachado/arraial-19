@@ -1728,14 +1728,22 @@ header.sticky_header {
 }
 
 @media (max-width: 400px) {
-h3#sponsors{
-  font-size: 2em;
-}
+  h3#sponsors{
+    font-size: 2em;
+  }
+
+  section#pad-info div.col-12{
+    padding-bottom:20px;
+  }
 
 }
 
 
 @media (min-width: 767px) {
+
+  section#pad-info{
+    padding-top:100px;
+  }
   header li:hover > ul {
     display: block;
     visibility: visible;
@@ -3231,10 +3239,10 @@ textarea.form-control {
 }
 
 .logo {
-  display:none;
+  opacity:0;
 }
 .sticky_header .logo{
-  display: inline-block;
+  opacity:1;
 }
 
 
