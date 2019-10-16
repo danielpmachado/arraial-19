@@ -1,0 +1,34 @@
+Nomes cartaz
+
+Telio
+Julinho
+Tay
+SupaSquad
+
+Novo logo - azul em toda a pagina - pedir cor a imagem
+Foto cartaz atual
+Fotos novas
+
+Semanal 15 (feup) vs 18
+
+--------------------------------------------------
+
+UPDATE
+
+Divulgação do cartaz 8h antes
+cartaz 16h quarta/quinta
+
+localização arraial DONE
+
+datas atualizar DONE
+
+rotas autocarros - feup -arraial-feup
+                  hsj -piolho -arraial -piolho -hsj
+
+localizaçao das paragens - google maps
+
+timeline autocarros - ticha
+
+hiperligaçao playlist
+
+trocar sexta por quarta - 2 preços
