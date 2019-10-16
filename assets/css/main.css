@@ -1741,6 +1741,10 @@ header.sticky_header {
 
 @media (min-width: 767px) {
 
+  #arraial_cover{
+    margin-top: -200px;
+  }
+
   section#pad-info{
     padding-top:100px;
   }
@@ -3233,10 +3237,10 @@ textarea.form-control {
 .accordion_card .card-body {
   font-size: 16px;
 }
-
+/*
 #arraial_cover{
   margin-top: -200px;
-}
+}*/
 
 .logo {
   opacity:0;
