@@ -1727,6 +1727,14 @@ header.sticky_header {
   border-radius: 2px;
 }
 
+@media (max-width: 400px) {
+h3#sponsors{
+  font-size: 2em;
+}
+
+}
+
+
 @media (min-width: 767px) {
   header li:hover > ul {
     display: block;
