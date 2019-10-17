@@ -1727,6 +1727,12 @@ header.sticky_header {
   border-radius: 2px;
 }
 
+
+#arraial_cover{
+    margin-top: -250px;
+}
+
+
 @media (max-width: 400px) {
   h3#sponsors{
     font-size: 2em;
@@ -1735,15 +1741,20 @@ header.sticky_header {
   section#pad-info div.col-12{
     padding-bottom:20px;
   }
+}
 
+@media (max-width:766px){
+  img#arraial_cover{
+      margin-top: -100px;
+  }
 }
 
 
 @media (min-width: 767px) {
 
-  #arraial_cover{
-    margin-top: -200px;
-  }
+/*  #arraial_cover{
+    margin-top: -250px;
+  }*/
 
   section#pad-info{
     padding-top:100px;
@@ -3237,10 +3248,6 @@ textarea.form-control {
 .accordion_card .card-body {
   font-size: 16px;
 }
-/*
-#arraial_cover{
-  margin-top: -200px;
-}*/
 
 .logo {
   opacity:0;
@@ -3248,6 +3255,9 @@ textarea.form-control {
 .sticky_header .logo{
   opacity:1;
 }
+
+
+
 
 
 #cartaz a{
