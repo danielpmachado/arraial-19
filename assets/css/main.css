@@ -1729,7 +1729,7 @@ header.sticky_header {
 
 
 #arraial_cover{
-    margin-top: -250px;
+    margin-top: -20em;
 }
 
 
@@ -1745,7 +1745,7 @@ header.sticky_header {
 
 @media (max-width:766px){
   img#arraial_cover{
-      margin-top: -100px;
+      margin-top: -5em;
   }
 }
 
